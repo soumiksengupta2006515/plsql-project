@@ -1,0 +1,2 @@
+DROP PACKAGE emp_pkg;
+DROP PACKAGE BODY emp_pkg;
